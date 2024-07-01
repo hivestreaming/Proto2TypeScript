@@ -1,5 +1,5 @@
 {
-  "name": "proto2typescript",
+  "name": "@hivestreaming/proto2typescript",
   "version": "2.2.0",
   "description": "Typescript definition generator for Protocol Buffer definitions",
   "main": "dist/proto2typescript.js",
