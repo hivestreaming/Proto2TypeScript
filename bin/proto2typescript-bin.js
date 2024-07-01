@@ -26,7 +26,7 @@ var argv = require('optimist')
 
 
 var vinylFile = require('vinyl-file');
-var proto2typescript = require('../lib/proto2typescript');
+var proto2typescript = require('../dist/proto2typescript');
 
 var file = vinylFile.readSync(argv.file);
 
