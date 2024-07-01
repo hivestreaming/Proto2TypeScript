@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aliok/Proto2TypeScript"
+    "url": "https://github.com/hivestreaming/Proto2TypeScript"
   },
   "bugs": {
-    "url": "https://github.com/aliok/Proto2TypeScript/issues"
+    "url": "https://github.com/hivestreaming/Proto2TypeScript/issues"
   },
-  "homepage": "https://github.com/aliok/Proto2TypeScript",
+  "homepage": "https://github.com/hivestreaming/Proto2TypeScript",
   "keywords": [
     "net",
     "buffer",
@@ -24,9 +24,9 @@
     "typescript"
   ],
   "dependencies": {
+    "@hivestreaming/protobufjs": "4.2.0",
     "dustjs-linkedin": "~2.3.3",
     "optimist": "~0.6.1",
-    "protobufjs": "~4.0.0",
     "vinyl-file": "^1.2.1"
   },
   "devDependencies": {
